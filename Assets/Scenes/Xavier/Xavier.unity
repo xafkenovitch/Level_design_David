@@ -178,6 +178,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ellen (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1991219941496362, guid: 9d620787554a948e3876fe7dbdba24e8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4035643436854338, guid: 9d620787554a948e3876fe7dbdba24e8, type: 3}
       propertyPath: m_RootOrder
       value: 2
