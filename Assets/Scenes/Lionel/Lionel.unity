@@ -464,7 +464,7 @@ GameObject:
   - component: {fileID: 1431509167}
   - component: {fileID: 1431509166}
   - component: {fileID: 1431509165}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Porte
   m_TagString: Untagged
   m_Icon: {fileID: 0}
